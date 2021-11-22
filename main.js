@@ -23,7 +23,7 @@ function new_image(get_image)
 		});
 
 	}
-}
+
 
 window.addEventListener("keydown", my_keydown);
 
